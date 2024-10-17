@@ -11,7 +11,8 @@ Layout Responsivo: Otimizado para dispositivos móveis e desktops, mantendo a ex
 
 Navegação Intuitiva: Menu simplificado e botões de chamada para ação bem destacados.
 
-🛠️ Tecnologias Usadas
+🛠️ Tecnologias Usadas:
+
 HTML5
 CSS3 (com Flexbox e Grid para um layout responsivo)
 JavaScript (para as animações e interatividade)
